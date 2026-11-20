@@ -1,0 +1,10 @@
+lapicb dq 0
+bspid dd 0
+ncpu dd 1
+rrc dd 0
+x2 db 0
+x2cap db 0
+hv db 0
+needx2 db 0
+sched_on db 0
+sched_go db 0

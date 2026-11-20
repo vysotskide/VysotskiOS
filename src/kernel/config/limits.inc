@@ -1,0 +1,7 @@
+MAXCPU equ 256
+FPC equ 8
+WDLIM equ 200
+NOBJ equ 256
+OE equ 64
+TS equ 32
+SNAP0 equ 256
